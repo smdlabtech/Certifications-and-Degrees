@@ -5,7 +5,7 @@
 Ici vous trouverez toutes mes certifications
 
 ## DATA ANALYTICS
-- [Alteryx](https://earth.google.com/web)
+- [2023-07-17 Alteryx]([https://earth.google.com/web](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr))
 - [Alteryx](https://earth.google.com/web)
 
 ## DATA ENGINEERING
