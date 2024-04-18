@@ -1,27 +1,25 @@
-# MES CERTIFICATIONS
+# MY CERTIFICATIONS
 
-Ici vous trouverez toutes mes dernières certifications.
+Here you'll find all my latest certifications.
 
 ## DATA ANALYTICS & SCIENCES
-- [2023-07-17 : Alteryx Designer Core Certification [*cliquez-ici*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr)
-- [2021-06-10 : Scival [*cliquez-ici*]](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
-
+- **Certified** on 2023-07-17 : [Alteryx Designer Core Certification [*click here to view*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr)
+- **Certified** on 2021-06-10 : [Scival [*click here to view*]](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)
+- [Alteryx [*click here to view*]](https://earth.google.com/web)  
 
 ## DATA ENGINEERING
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
+- [GCP - Data Engineer ressources [*click here to view*]](https://www.cloudskillsboost.google/paths/16?hl=fr)
+- [Google and other resources [*click here to view*]](https://cloud.google.com/learn/certificates?hl=fr)
+- [My resources manager [*click here to view*]](https://lookerstudio.google.com/u/0/reporting/15699df7-d3bd-4b0f-8834-647745c6f882/page/p_3rjgmnrudd)  
 
 ## CLOUD ENGINEERING
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
+- [Alteryx [*click here to view*]](https://earth.google.com/web)
+- [Alteryx [*click here to view*]](https://earth.google.com/web)  
 
 ## DEV OPS
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
+- [Alteryx [*click here to view*]](https://earth.google.com/web)
+- [Alteryx [*click here to view*]](https://earth.google.com/web)
 
-## MARKETING DIGITAL
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
-- [Alteryx [*cliquez-ici*]](https://earth.google.com/web)
+## DIGITAL MARKETING
+- [Alteryx [*click here to view*]](https://earth.google.com/web)
+- [Alteryx [*click here to view*]](https://earth.google.com/web)
