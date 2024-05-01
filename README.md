@@ -13,13 +13,13 @@ Here you'll find all my latest certifications.
 - [My resources manager [*click here to view*]](https://lookerstudio.google.com/u/0/reporting/15699df7-d3bd-4b0f-8834-647745c6f882/page/p_3rjgmnrudd)  
 
 ## CLOUD ENGINEERING
-- [Alteryx [*click here to view*]](https://earth.google.com/web)
-- [Alteryx [*click here to view*]](https://earth.google.com/web)  
+- [Link [*click here to view*]](https://earth.google.com/web)
+- [Link [*click here to view*]](https://earth.google.com/web)  
 
 ## DEV OPS
-- [Alteryx [*click here to view*]](https://earth.google.com/web)
-- [Alteryx [*click here to view*]](https://earth.google.com/web)
+- [Link [*click here to view*]](https://earth.google.com/web)
+- [Link [*click here to view*]](https://earth.google.com/web)
 
 ## DIGITAL MARKETING
-- [Alteryx [*click here to view*]](https://earth.google.com/web)
-- [Alteryx [*click here to view*]](https://earth.google.com/web)
+- [Link [*click here to view*]](https://earth.google.com/web)
+- [Link [*click here to view*]](https://earth.google.com/web)
