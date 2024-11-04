@@ -1,4 +1,4 @@
-# MY CERTIFICATIONS
+# ✨MY CERTIFICATIONS✨
 
 Here you'll find all my latest certifications.
 
