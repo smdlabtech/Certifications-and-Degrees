@@ -5,7 +5,6 @@ Here you'll find all my latest certifications.
 ## 📜DATA ANALYTICS & SCIENCES
 - **Certified** on 2023-07-17 : [Alteryx Designer Core Certification [*click here to view*]](https://www.credly.com/badges/a35bc2bc-8641-4461-979b-264bd2385d51/linked_in?t=ryathr)
 - **Certified** on 2021-06-10 : [Scival [*click here to view*]](https://www.credential.net/727bbd2e-bfec-4ce2-a52f-66ebd7871f77#gs.5dm3h8)
-- [Link [*click here to view*]](https://earth.google.com/web)  
 
 ## 📜DATA ENGINEERING
 - [GCP - Data Engineer ressources [*click here to view*]](https://www.cloudskillsboost.google/paths/16?hl=fr)
