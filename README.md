@@ -1,4 +1,4 @@
-# ✨MY DEGREES and CERTIFICATIONS✨
+# ✨MY DEGREES AND CERTIFICATIONS✨
 
 Here you'll find all my latest certifications.
 
